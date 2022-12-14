@@ -1,7 +1,7 @@
-## 👋 Olá, eu sou Natanias.
+## 👋 Olá, me chamo Natanias.
 
-- 🌱 Estudanto Java.
-- 📫 Estudante de Sistemas de Informação na UESB-BA.
+- 🌱 Estudante de Sistemas de Informação, pela Universidade Estadual do Sudoeste da Bahia - UESB. 
+- 📫 Apaixonado por tecnologia e atualmente estudando, desenvolvendo projetos Web e sempre aprendendo coisas novas.
 
 <div>
   <a href="https://github.com/natanias">
